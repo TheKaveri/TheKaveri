@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekaveri&label=Profile%20views&color=0e75b6&style=flat" alt="thekaveri" /> </p>
 
+<!---
 - 🔭 I’m currently working on **a disposable email client for iOS**
+-->
 
 - 🌱 I’m currently learning **Group Theory, Real Analysis, Advanced Data Structures and Algorithms**
 
