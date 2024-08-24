@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on **a disposable email client for iOS**
 -->
 
-- 🌱 I’m currently learning **Group Theory, Real Analysis, Advanced Data Structures and Algorithms**
+- 🌱 I’m currently learning **Group Theory, Real Analysis, Data Structures and Algorithms**
 
-- ⚡ Fun fact **I love astronomy, philosophy and Thai food!**
+- ⚡ Fun fact **I love Thai food!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
