@@ -5,10 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekaveri&label=Profile%20views&color=0e75b6&style=flat" alt="thekaveri" /> </p>
 
 <!---
-- 🔭 I’m currently working on **a disposable email client for iOS**
+- 🔭 I’m currently interning at **MKS Instruments Inc.**
 -->
 
-- 🌱 I’m currently learning **Group Theory, Real Analysis, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Control Theory, Signal Processing, Data Structures and Algorithms**
 
 - ⚡ Fun fact **I love Thai food!**
 
